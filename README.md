@@ -3,7 +3,7 @@ YOLOv10-CBRC/AbaTND
 Project Overview: This project is designed for document layout analysis tasks.
 
 Dataset Description:
-Provides a Tibetan newspaper dataset containing 571 images with corresponding TXT format annotations, suitable for both detection and segmentation tasks (users need to implement custom code for annotation format conversion).
+Provides a Tibetan newspaper dataset containing 571 images with corresponding TXT format annotations, suitable for both detection and segmentation tasks.
 
 Directory Structure:
 
