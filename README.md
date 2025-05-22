@@ -36,3 +36,8 @@ Please cite our corresponding publication if you use AbaTND or YOLOv10-CBRC in y
 
 
 The module names remain unchanged from their original implementation. Users may optionally modify these names according to their preferences, as such changes will not affect the model's accuracy or computational performance.
+
+dataset:通过网盘分享的文件：AbaTND
+"The AbaTND dataset is available via Baidu Netdisk:
+Link: https://pan.baidu.com/s/12aF1maJM5DB_tBQK6XowUg
+Access code: mycf"
